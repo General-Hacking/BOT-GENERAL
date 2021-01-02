@@ -6,7 +6,7 @@
 
 # <p align="center" style="color: #14635c;" > التنصيب بكود واحد
 ```sh
-https://github.com/General-Hacking/General-Bot.git ;cd General-Bot;chmod +x ins;./ins
+https://github.com/General-Hacking/BOT-GENERAL.git ;cd General-Bot;chmod +x ins;./ins
 ```
 
 
