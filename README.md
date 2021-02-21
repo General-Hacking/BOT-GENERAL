@@ -1,4 +1,4 @@
-# <p align="center" style="color:#cb3349" > [<< Source Boss >> (Final Version)](https://t.me/Source_GENERAL)
+# <p align="center" style="color:#cb3349" > [<< Source General >> (Final Version)](https://t.me/Source_GENERAL)
 
  <p align="center" style="color: #14635c;" >  سورس الاقوى💪 والاحدث لحمايه⚔🔰 المجموعات في التلجرام GENERAL
 
@@ -6,7 +6,7 @@
 
 # <p align="center" style="color: #14635c;" > التنصيب بكود واحد
 ```sh
-https://github.com/General-Hacking/BOT-GENERAL.git ;cd General-Bot;chmod +x ins;./ins
+https://github.com/General-Hacking/BOT-GENERAL.git ;cd BOT-GENERAL;chmod +x ins;./ins
 ```
 
 
